@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.3.7)  27 APR 2024 21:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.3.7)  27 APR 2024 21:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -747,13 +747,13 @@ Type  H <return>  for immediate help.
 l.249 \begin{figure*}[H]
                         
 ? 
-<proof6.png, id=144, 658.46pt x 343.2825pt>
+<proof6.png, id=144, 508.90125pt x 372.39125pt>
 File: proof6.png Graphic file (type png)
 <use proof6.png>
 Package pdftex.def Info: proof6.png  used on input line 251.
-(pdftex.def)             Requested size: 298.75264pt x 155.75377pt.
+(pdftex.def)             Requested size: 298.75264pt x 218.62363pt.
 [8] [9 <./proof1.png> <./Austinbranch.png> <./proof2.png> <./proof3.png>]
-[10 <./proof4.png> <./proof5.png> <./proof6.png>] [11] (INFO1111.bbl
+[10 <./proof4.png> <./proof5.png>] [11] (INFO1111.bbl [12 <./proof6.png>]
 Underfull \hbox (badness 7256) in paragraph at lines 29--32
 []\T1/cmr/m/n/10.95 University of Penn-syl-va-nia, ``5 key rea-sons why data an
 -a-lyt-ics is im-
@@ -816,9 +816,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--42
 l.74 ..., ``Importance of custom software design &
                                                    development,'' see
 ? 
-[12
+[13
 
-]) [13] (INFO1111.aux)
+]) [14] (INFO1111.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -827,8 +827,8 @@ Package rerunfilecheck Info: File `INFO1111.out' has not changed.
 (rerunfilecheck)             Checksum: DAB7C815A7AB5F6DBE6C5F7AA411DD4D;1793.
  ) 
 Here is how much of TeX's memory you used:
- 11516 strings out of 474457
- 188201 string characters out of 5733348
+ 11517 strings out of 474457
+ 188208 string characters out of 5733348
  1940187 words of memory out of 5000000
  33639 multiletter control sequences out of 15000+600000
  568099 words of font info for 55 fonts, out of 8000000 for 9000
@@ -847,9 +847,9 @@ rt/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/d
 avieet/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/
 ec/dpi1037/ecbx1200.pk></Users/davieet/Library/Application Support/MiKTeX/texmf
 s/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on INFO1111.pdf (14 pages, 1376529 bytes).
+Output written on INFO1111.pdf (15 pages, 1375428 bytes).
 PDF statistics:
- 513 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
+ 517 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
  127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
