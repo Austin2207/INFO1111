@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.3.7)  27 APR 2024 23:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.3.7)  9 MAY 2024 18:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -819,7 +819,7 @@ Package rerunfilecheck Info: File `INFO1111.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  11515 strings out of 474457
- 188077 string characters out of 5733348
+ 188085 string characters out of 5733348
  1940187 words of memory out of 5000000
  33639 multiletter control sequences out of 15000+600000
  568099 words of font info for 55 fonts, out of 8000000 for 9000
@@ -837,9 +837,9 @@ jfour/jknappen/ec/dpi657/ecrm1000.pk> </Users/davieet/Library/Application Suppo
 rt/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/d
 avieet/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/
 ec/dpi1037/ecbx1200.pk>
-Output written on INFO1111.pdf (14 pages, 1324225 bytes).
+Output written on INFO1111.pdf (14 pages, 1324459 bytes).
 PDF statistics:
- 503 PDF objects out of 1000 (max. 8388607)
+ 504 PDF objects out of 1000 (max. 8388607)
  51 named destinations out of 1000 (max. 500000)
  127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
